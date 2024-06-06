@@ -1,5 +1,5 @@
 let poc = 3
-while(poc<100){
+while(poc<=100){
     console.log(poc)
    
     poc = poc *2
